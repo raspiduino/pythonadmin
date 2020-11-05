@@ -2,12 +2,12 @@
 Run your Python script/other program from cmdline as admin/root
 ## Usuage
 > admin.isUserAdmin()
-Check if the Python script run as root or not
-Return: True if root and False if not
+<br>Check if the Python script run as root or not
+<br>Return: True if root and False if not
 
 > admin.runAsAdmin(command and parameter)
-Run command (cmd/bash) as root
-Return: None
+<br>Run command (cmd/bash) as root
+<br>Return: None
 
 ## Example
 ```python
